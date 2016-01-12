@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BehaviorDrawerLayout</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="activity_resolver_use_always">Always</string>
+    <string name="activity_resolver_use_once">Just once</string>
+</resources>
